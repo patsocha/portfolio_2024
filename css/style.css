@@ -25,6 +25,9 @@ font-size: 120%;
 	
 }
 
+.socials {
+
+}
 
 *{
 	margin: 0;
@@ -768,6 +771,7 @@ footer{
 	align-items: center;
 	justify-content: center;
 	margin: 1rem 0 3rem 0;
+	font-family:Lato ;
   }
   .socials li{
 	margin: 0 10px;
@@ -775,9 +779,7 @@ footer{
   .socials a{
 	text-decoration: none;
 	color: #fff;
-	border: 1.1px solid white;
-	padding: 5px;
-	border-radius: 50%;
+	
   }
   .socials a i{
 	font-size: 1.1rem;
